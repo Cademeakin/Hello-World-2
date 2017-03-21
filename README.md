@@ -7,7 +7,7 @@ This is a Hello World example. It will be used to see how Github.com linke to Gi
 
 This is an example of lists and code:
 1. `This is Code`
-2. `This is the Hello World Wiki` https://en.wikipedia.org/wiki/%22Hello,_World!%22_program "Hello World Wiki"
+2. `This is the Hello World Wiki` https://en.wikipedia.org/wiki/%22Hello,_World!%22_program"Hello World Wiki"
 3. '**This is an example of styled text**`
 
 Here is a Youtube Video of turtles mating:
